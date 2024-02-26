@@ -1,0 +1,1 @@
+ /Users/sas/Downloads/X-NotePad-main/.dart_tool/flutter_build/b5d469f4ab33d3ec85433a751f89204b/native_assets.yaml: 

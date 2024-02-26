@@ -1,0 +1,13 @@
+com.tools.notepad.text.sp.note.app-jetified-window-1.0.0-beta04-0 /Users/sas/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.tools.notepad.text.sp.note.app-jetified-annotation-experimental-1.1.0-1 /Users/sas/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.tools.notepad.text.sp.note.app-core-1.6.0-2 /Users/sas/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.tools.notepad.text.sp.note.app-jetified-window-java-1.0.0-beta04-3 /Users/sas/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.tools.notepad.text.sp.note.app-debug-4 /Users/sas/Downloads/X-NotePad-main/android/app/src/debug/res
+com.tools.notepad.text.sp.note.app-main-5 /Users/sas/Downloads/X-NotePad-main/android/app/src/main/res
+com.tools.notepad.text.sp.note.app-pngs-6 /Users/sas/Downloads/X-NotePad-main/build/app/generated/res/pngs/debug
+com.tools.notepad.text.sp.note.app-resValues-7 /Users/sas/Downloads/X-NotePad-main/build/app/generated/res/resValues/debug
+com.tools.notepad.text.sp.note.app-rs-8 /Users/sas/Downloads/X-NotePad-main/build/app/generated/res/rs/debug
+com.tools.notepad.text.sp.note.app-mergeDebugResources-9 /Users/sas/Downloads/X-NotePad-main/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.tools.notepad.text.sp.note.app-mergeDebugResources-10 /Users/sas/Downloads/X-NotePad-main/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.tools.notepad.text.sp.note.app-merged_res-11 /Users/sas/Downloads/X-NotePad-main/build/app/intermediates/merged_res/debug
+com.tools.notepad.text.sp.note.app-packaged_res-12 /Users/sas/Downloads/X-NotePad-main/build/shared_preferences_android/intermediates/packaged_res/debug

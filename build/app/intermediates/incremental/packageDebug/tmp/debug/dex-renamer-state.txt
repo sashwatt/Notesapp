@@ -1,0 +1,4 @@
+#Mon Feb 26 13:27:22 NPT 2024
+base.0=/Users/sas/Downloads/X-NotePad-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
